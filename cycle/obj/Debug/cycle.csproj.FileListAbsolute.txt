@@ -1,0 +1,8 @@
+C:\Users\Danii\source\repos\cycle\cycle\bin\Debug\cycle.exe.config
+C:\Users\Danii\source\repos\cycle\cycle\bin\Debug\cycle.exe
+C:\Users\Danii\source\repos\cycle\cycle\bin\Debug\cycle.pdb
+C:\Users\Danii\source\repos\cycle\cycle\obj\Debug\cycle.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\cycle\cycle\obj\Debug\cycle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\cycle\cycle\obj\Debug\cycle.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\cycle\cycle\obj\Debug\cycle.exe
+C:\Users\Danii\source\repos\cycle\cycle\obj\Debug\cycle.pdb
